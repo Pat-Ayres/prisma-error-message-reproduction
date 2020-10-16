@@ -9,7 +9,7 @@ This example shows the error message when trying to connect an object that does 
 Clone this repository:
 
 ```
-git clone git@github.com:Pat-Ayres/prisma-error-message-reproduction.git --depth=1
+git clone git@github.com:Pat-Ayres/prisma-error-message-reproduction.git
 ```
 
 Install npm dependencies:
